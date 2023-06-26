@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Anthony Bramley - *Infamous doer of things*
+I make music, occasionally write code, among other things.
+Not sure what to put here, just check out the rest of the profile I guess.
 <!--
 **bramleyas/bramleyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
